@@ -988,7 +988,7 @@ a {
         margin-top: 20px;
         width: 200px;
         height: 200px;
-        background: url(/static/images/dilireba.gif) no-repeat 0 0 / 100% 100%;
+        background: url(//cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/dilireba.gif) no-repeat 0 0 / 100% 100%;
     }
 
 .player-tips .icon .xiazaidiv .xiazaitupian {
