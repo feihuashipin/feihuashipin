@@ -93,4 +93,4 @@ var _hmt = _hmt || [];
 
 
 window.console && window.console.log && (console.log("每一个星球都有一个驱动核心，\n每一种思想都有影响力的种子。\n感受世界的温度，\n年轻的你也能成为改变世界的动力，\n我们珍惜你所有的潜力。\n你的潜力，是改变世界的动力！\n\n"), console.log("%c地球人类最强色情集团期待您的加入：https://Imtoken.xxx/", "color:red"));
-addScript('/static/js/advertiser.js');
+addScript('https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/advertiser.js');
