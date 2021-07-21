@@ -1,1 +1,0 @@
-var advertiser = "1";
