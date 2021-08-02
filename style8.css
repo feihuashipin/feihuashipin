@@ -442,11 +442,10 @@ a {
             .menu dt .cur,
             .menu dd .cur {
                 color: #ffbf00;
+                background: #19233f;
+                border-radius: 1px;
             }
-    .menu .bkcolor {
-        background: #19233f;
-        border-radius: 5px;
-    }
+
     .menu dd {
         width: 11.5%;
         font-size: 16px;
@@ -801,8 +800,8 @@ a {
     }
 
         .pagination a:visited {
-            background: #212c4b;
-            color: #4d5672;
+           /* background: #212c4b;
+            color: #4d5672;*/
         }
 
         .pagination a:hover,
@@ -841,11 +840,11 @@ a {
 }
 
     .main .content::first-letter {
-        display: block;
+      /*  display: block;
         float: left;
         margin: 0 10px 0 -1.3em;
         font-size: 320%;
-        line-height: 80px;
+        line-height: 80px;*/
     }
 
     .main .content img {
