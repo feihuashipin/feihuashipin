@@ -5,40 +5,15 @@ document.writeln('		<a href="/" title="返回首页"><i class="icon-home"></i></
 document.writeln('	</div>');
 document.writeln('</div>');
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 document.writeln('<div class="footer"><div class="wrap"><div class="menu clearfix">');
 document.writeln('<div class="spreadimage" onclick="CommercialCooperation()">');
-document.writeln('	<img src="static/images/tuiguang.png" alt="" />');
+document.writeln('	<img src="https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/tuiguang.png" alt="" />');
 document.writeln('<p class="spreadp1">代理加盟</p><p class="spreadp2">优质合作伙伴共同成长</p></div>');
 document.writeln('<div class="spreadimage" onclick="CommercialCooperation()">');
-document.writeln('<img src="static/images/changjian.png" alt="" />');
+document.writeln('<img src="https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/changjian.png" alt="" />');
 document.writeln('<p class="spreadp1">常见问题</p><p class="spreadp2">及时在线解决问题</p></div>');
 document.writeln('<div class="spreadimage" onclick="CommercialCooperation()">');
-document.writeln('<img src="static/images/tuiguang.png" alt="" />');
+document.writeln('<img src="https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/kefu.png" alt="" />');
 document.writeln('<p class="spreadp1">在线客服</p><p class="spreadp2">7*24小时免费在线咨询</p></div>');
 document.writeln('<a href="https://t.me/feihuashiping" target="_blank" class="tg">');
 document.writeln('<i class="icon-telegram"></i>');
