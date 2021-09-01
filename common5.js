@@ -26,7 +26,7 @@ var menuData = [
 	{ name: '站长推荐', url: menuUrl }
 ];
 
-/* 对联 [150*350] [固定2个] *
+/* 对联 [150*350] [固定2个] */
 var couplet = true;
 var coupletData = [
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/side150x350.gif"], url: 'https://yh87g.com/register' }, //1
