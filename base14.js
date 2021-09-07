@@ -458,7 +458,7 @@ function copyUrl(text) {
 	}
 }
 function CommercialCooperation() {
-	window.location.href = "https://t.me/feihuashipin";
+	window.location.href = "https://t.me/CC91AV";
 }
 function goUrl(url) {
 	window.open(url, "_blank");
