@@ -23,7 +23,7 @@ var menuData = [
 	{ name: '野战直播', url: menuUrl },
 	{ name: '自慰抠逼', url: menuUrl },
 	{ name: '夫妻做爱', url: menuUrl },
-	{ name: '站长推荐', url: menuUrl }
+	{ name: '福利下载', url: "https://ctvtggroup.com/" }
 ];
 
 /* 对联 [150*350] [固定2个] */
