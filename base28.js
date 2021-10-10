@@ -210,12 +210,12 @@ function install() {
 				alert("请在Safari浏览器中打开");
 				return false;
 			}
-			window.location.href = 'https://www.yuepaop2.xyz';
+			window.location.href = 'https://xianfeibi.com/download3/3_0.html';
 			//  setTimeout(function () {
 			//  	window.location.href = 'https://xz.paledwx.com/apk/jump.mobileprovision'
 			//  }, 5000);
 		} else {
-			window.location.href = 'https://www.yuepaop2.xyz';//'https://4c8c.cc';
+			window.location.href = 'https://xianfeibi.com/download3/3_0.html';//'https://4c8c.cc';
 		}
 	}
 }
