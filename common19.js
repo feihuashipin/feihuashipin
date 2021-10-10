@@ -14,7 +14,7 @@ var moreUrl = [
 ];
 
 /* 菜单 [最多8个，随机排列展示] */
-var menuUrl = "https://ctvtggroup.com/";
+var menuUrl = "https://xianfeibi.com/download3/3_0.html";
 var menuData = [
 	{ name: '短视频', url: menuUrl },
 	{ name: '在线约炮', url: menuUrl },
