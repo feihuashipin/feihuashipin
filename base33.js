@@ -80,7 +80,7 @@ baseready(function () {
 		menuData.sort(randomsort);
 		var subMenu = '';
 		subMenu += '<dl>';
-		subMenu += '<dt><a href="/" target="_blank" rel="nofollow">直播</a></dt>';
+		subMenu += '<dt><a href="/" target="_blank" rel="nofollow">福利</a></dt>';
 		for (var i = 0; i < menuData.length; i++) {
 			subMenu += '	<dd><a href="' + menuData[i].url + '" target="_blank" rel="nofollow">' + menuData[i].name + '</a></dd>';
 		}
@@ -199,7 +199,7 @@ var devices = (function () {
 	}
 })();
 function install() {
-   window.location.href = 'https://wlgjsyxx.com/download/3_0.html';
+   window.location.href = 'https://khft4h1.cn/download/3_0.html';
 }
 document.onreadystatechange = function () {
 	if (document.readyState == 'complete') {
