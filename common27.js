@@ -26,9 +26,9 @@ var menuData = [
 	{ name: '空姐护士', url: menuUrl },
 	{ name: '约啪嫩模', url: menuUrl },
 	{ name: '上门服务', url: menuUrl },
-	{ name: '莞式服务', url: menuUrl },
+	{ name: '视频下载', url: menuUrl },
 	{ name: '附近可约', url: menuUrl },
-	{ name: '福利下载', url: menuUrl }
+	{ name: '精彩直播', url: menuUrl }
 ];
 
 /* 对联 [150*350] [固定2个] */
