@@ -19,7 +19,7 @@ var moreUrl = [
 ];
 
 /* 菜单 [最多8个，随机排列展示] */
-var menuUrl = "https://jajjm.com";
+var menuUrl = "https://61a680c0edf1dc9f2cccaef6a164e218.com";
 var menuData = [
 	{ name: '短视频', url: menuUrl },
 	{ name: '在线约炮', url: menuUrl },
