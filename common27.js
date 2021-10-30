@@ -3,7 +3,7 @@ var domain = "https://6688.xxx"; //域名
 var appName = "飞花视频"; //APP名称
 var appUrl = "https://xz.paledwx.com/down/config/qingguo_1_0_fcac8379abc8793a980e54ff7999cf0114.mobileconfig?url=https://f.pch3366.com','https://xz.paledwx.com/apk/embedded.mobileprovision','https://xz.paledwx.com/download/parse?p=L2Fway9xaW5nZ3VvL3FpbmdndW8vcWluZ2d1by5hcGs%3D&ext=1-0-0&type=1&v=1"; //APP下载页地址
 var appUrl1 = "https://xz.paledwx.com/apk/qingguo/qingguo/qingguo_1-0-0.apk?v=1";
-var updateUrl = "https://tv.yundamen.com/"; //永久网址发布页 
+var updateUrl = "https://51yw.app"; //永久网址发布页 
 var emailUrl = "feihua@mail.com"; //"<em>g</em><span>s</span><em>et</em><span>ok</span><em>u</em><span>wb</span><em>r</em><span>qr</span><em>l</em><span>kt</span><em>@gm<span>zi</span>ai<span>mk</span>l.c<span>yq</span>om</em>";	//邮箱回复网址
 var countUrl = "https://hm.baidu.com/hm.js?5f2ce093e332e05e09548c3c8b555a90"; //统计系统JS地址
 var getSpons = true;
