@@ -14,7 +14,7 @@ var player = new Monster.Player({
 				var playerPop = document.createElement("div");
 				playerPop.id = "playerPop";
 				playerPop.setAttribute("class","player-tips");
-				playerPop.innerHTML = '<a  target="_blank" onclick="install();closePlayerTips();"></a><span class="btn-close" onclick="install();closePlayerTips();"><i class="icon-close"></i></span><dl><dt class="title">推荐下载'+appName+'</dt><dd class="sub-title">约炮 / 短视频 / 有声小说 / 视频下载 / 黄漫连载 / 蓝光8M / 超快</dd><dd class="icon"></dd><dd class="download"><span>立即下载</span></dd></dl>';
+				playerPop.innerHTML = '<a  target="_blank" onclick="install();closePlayerTips();"></a><span class="btn-close" onclick="install();closePlayerTips();"><i class="icon-close"></i></span><dl><dt class="title">推荐下载'+appName+'</dt><dd class="sub-title">约炮 / 短视频 / 免费 / 视频下载 / 黄漫 / 小黄游 / 高清</dd><dd class="icon"></dd><dd class="download"><span>立即下载</span></dd></dl>';
 				//playerPop.innerHTML = '<a  target="_blank" onclick="install();closePlayerTips();"></a><span class="btn-close" onclick="install();closePlayerTips();"><i class="icon-close"></i></span><dl><dt class="title">推荐下载午夜约吧</dt><dd class="sub-title">在线约炮 / 系统匹配 / 附近美女 / 专属导师</dd><dd class="icon"></dd><dd class="download"><span>立即下载</span></dd></dl>';
 				getId('player').parentNode.insertBefore(playerPop,getId('player'));
 			}
