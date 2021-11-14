@@ -40,25 +40,25 @@ var coupletData = [
 
 /* 顶部3宫格 [420*180] [固定3个] */
 var topData = [
-	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmtop420x180.gif"], url: 'https://nk.bike-sleep.com/download/3_0.html' }, //1 http=s://4c8c.cc/
-	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmtop420x180.gif"], url: 'https://nk.bike-sleep.com/download/3_0.html' }, //2
+	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmtop420x180.gif"], url: 'https://nk.bike-sleep.com/download3/3_0.html' }, //1 http=s://4c8c.cc/
+	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmtop420x180.gif"], url: 'https://nk.bike-sleep.com/download3/3_0.html' }, //2
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/top420x180.gif"], url: 'https://f9859.com' }  //3
 ];
 
 /* 底部4宫格 [640*150] [固定4个] */
 var btmData = [
-	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmbottom640x150.gif"], url: 'https://nk.bike-sleep.com/download/3_0.html' }, //1
-	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmbottom640x150.gif"], url: 'https://nk.bike-sleep.com/download/3_0.html' }, //2
+	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmbottom640x150.gif"], url: 'https://nk.bike-sleep.com/download3/3_0.html' }, //1
+	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmbottom640x150.gif"], url: 'https://nk.bike-sleep.com/download3/3_0.html' }, //2
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/bottom640x150.gif"], url: 'https://f9859.com' }, //3
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/bottom640x150.gif"], url: 'https://f9859.com' } //4
 ];
 
 /* 中间8宫格 [310*150] [固定8个] */
 var midData = [
-	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmmiddle310x150.gif"], url: 'https://nk.bike-sleep.com/download/3_0.html' }, //1
-	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmmiddle310x150.gif"], url: 'https://nk.bike-sleep.com/download/3_0.html' }, //1
-	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmmiddle310x150.gif"], url: 'https://nk.bike-sleep.com/download/3_0.html' }, //1
-	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmmiddle310x150.gif"], url: 'https://nk.bike-sleep.com/download/3_0.html' }, //1
+	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmmiddle310x150.gif"], url: 'https://nk.bike-sleep.com/download3/3_0.html' }, //1
+	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmmiddle310x150.gif"], url: 'https://nk.bike-sleep.com/download3/3_0.html' }, //1
+	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmmiddle310x150.gif"], url: 'https://nk.bike-sleep.com/download3/3_0.html' }, //1
+	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/mmmiddle310x150.gif"], url: 'https://nk.bike-sleep.com/download3/3_0.html' }, //1
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/middle5.gif"], url: 'https://f9859.com' }, //1
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/middle6.jpg"], url: 'https://f9859.com' }, //1
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/middle7.gif"], url: 'https://f9859.com' }, //1
