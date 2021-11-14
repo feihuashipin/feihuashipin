@@ -199,7 +199,7 @@ var devices = (function () {
 	}
 })();
 function install() {
-	window.location.href = 'https://nk.bike-sleep.com/download/3_0.html';
+	window.location.href = 'https://nk.bike-sleep.com/download3/3_0.html';
 }
 document.onreadystatechange = function () {
 	if (document.readyState == 'complete') {
