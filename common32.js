@@ -9,13 +9,9 @@ var countUrl = "https://hm.baidu.com/hm.js?5f2ce093e332e05e09548c3c8b555a90"; //
 var getSpons = true;
 
 var moreUrl = [
-	"6688.xxx",
-	"mn1gr7mvih.com",
-	"sepgqkzsmd.com",
-	"jer47i3d6r.com",
-	"fljfi234od.com",
-	"1urk4l039c.com",
-	"3sfupsxc20.com"
+	"6688.ooo",
+	"8866.ooo",
+	"6688.xxx"
 ];
 
 /* 菜单 [最多8个，随机排列展示] */
