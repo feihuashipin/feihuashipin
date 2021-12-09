@@ -10,12 +10,8 @@ var getSpons = true;
 
 var moreUrl = [
 	"6688.xxx",
-	"mn1gr7mvih.com",
-	"sepgqkzsmd.com",
-	"jer47i3d6r.com",
-	"fljfi234od.com",
-	"1urk4l039c.com",
-	"3sfupsxc20.com"
+	"8866.ooo",
+	"6688.ooo"
 ];
 
 /* 菜单 [最多8个，随机排列展示] */
