@@ -38,7 +38,7 @@ var coupletData = [
 var topData = [
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/middle6.jpg"], url: 'https://lshow36.com' }, //1 http=s://4c8c.cc/
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/middle7.gif"], url: 'https://lshow36.com' }, //2
-	{ imgs: ["https://t1.sdgourmetcity.com/up/img/310_150.jpg"], url: 'https://j84o0.com/?channel=JV0001' }  //3
+	{ imgs: ["https://oss-img11.oss-cn-shenzhen.aliyuncs.com/1219/8866/310_150.gif"], url: 'https://j84o0.com/?channel=JV0001' }  //3
 ];
 
 /* 底部4宫格 [640*150] [固定4个] */
@@ -51,10 +51,10 @@ var btmData = [
 
 /* 中间8宫格 [310*150] [固定8个] */
 var midData = [
-	{ imgs: ["https://t1.sdgourmetcity.com/up/img/310_150.jpg"], url: 'https://j84o0.com/?channel=JV0001' }, //1
-	{ imgs: ["https://t1.sdgourmetcity.com/up/img/310_150.jpg"], url: 'https://j84o0.com/?channel=JV0001' }, //1
-	{ imgs: ["https://t1.sdgourmetcity.com/up/img/310_150.jpg"], url: 'https://j84o0.com/?channel=JV0001' }, //1
-	{ imgs: ["https://t1.sdgourmetcity.com/up/img/310_150.jpg"], url: 'https://j84o0.com/?channel=JV0001' }, //1
+	{ imgs: ["https://oss-img11.oss-cn-shenzhen.aliyuncs.com/1219/8866/310_150.gif"], url: 'https://j84o0.com/?channel=JV0001' }, //1
+	{ imgs: ["https://oss-img11.oss-cn-shenzhen.aliyuncs.com/1219/8866/310_150.gif"], url: 'https://j84o0.com/?channel=JV0001' }, //1
+	{ imgs: ["https://oss-img11.oss-cn-shenzhen.aliyuncs.com/1219/8866/310_150.gif"], url: 'https://j84o0.com/?channel=JV0001' }, //1
+	{ imgs: ["https://oss-img11.oss-cn-shenzhen.aliyuncs.com/1219/8866/310_150.gif"], url: 'https://j84o0.com/?channel=JV0001' }, //1
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/middle5.gif"], url: 'https://lshow36.com' }, //1
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/middle6.jpg"], url: 'https://lshow36.com' }, //1
 	{ imgs: ["https://cdn.jsdelivr.net/gh/feihuashipin/feihuashipin/middle7.gif"], url: 'https://lshow36.com' }, //1
